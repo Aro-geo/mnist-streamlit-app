@@ -3,3 +3,4 @@ tensorflow>=2.13
 keras>=3.0.0
 numpy
 pillow
+opencv-python
