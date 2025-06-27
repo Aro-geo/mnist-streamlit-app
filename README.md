@@ -49,6 +49,13 @@ Evaluation on test set
 
 Optional: Export to .keras and deployed in Streamlit
 
+## App Screenshot 
+![image](https://github.com/user-attachments/assets/25ca96a4-c4b2-4b64-908e-3e1822b4ca80)
+
+![image](https://github.com/user-attachments/assets/806fa018-e677-4b39-b2cb-fb51e8fc3b93)
+
+
+
 ## 🗣️ Task 3: NLP with spaCy
 Dataset: Amazon Reviews (or custom text samples)
 
